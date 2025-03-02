@@ -89,7 +89,7 @@ php artisan migrate
 Les journaux du LMS se trouvent dans :
 
 ```
-/chemin/vers/lms-modulaire/storage/logs/laravel.log
+/chemin/vers/lms-test/storage/logs/laravel.log
 ```
 
 Pour les problèmes liés au serveur web, consultez :
