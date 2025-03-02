@@ -1,4 +1,4 @@
-# Guide d'Installation du LMS Modulaire Laravel
+# Guide d'Installation du LMS test Laravel
 
 Ce document fournit les instructions détaillées pour installer et configurer le Système de Gestion d'Apprentissage (LMS) modulaire basé sur le modèle Majestic Monolith de Laravel.
 
@@ -76,7 +76,7 @@ WEBSOCKET_SSL=false
 
 
 
-### 5. Exécuter les migrations et les seeders
+### 5. Exécuter les migrations 
 
 ```bash
 php artisan migrate
